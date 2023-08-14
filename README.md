@@ -1,7 +1,7 @@
  Hi 👋, I'm Indrani Inapakolla 
 ========================
 
-### Full Stack Developer | React | Node.js |AWS | JavaScript  | DevOps |  MongoDB | Typescript | MySQL | Firebase  | Docker | Kubernetes | REST api | jest unit testing | SQL/NoSQL DB | Java | Spring Boot| python |
+### Full Stack Developer | React | Node.js |AWS | JavaScript  | DevOps |  MongoDB | Typescript | MySQL | Firebase  | Docker | Kubernetes | REST api |  unit testing | SQL/NoSQL DB | Java | Spring Boot| python |
 
 ![Indrani-19](https://komarev.com/ghpvc/?username=Indrani-19&label=Profile%20views&color=0e75b6&style=flat)
 
